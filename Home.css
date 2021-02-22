@@ -1,0 +1,26 @@
+.Mainimg {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+head {
+  background-color: #15183f;
+}
+
+body {
+  background-color: #15183f;
+}
+
+#calendar {
+  color: white;
+  font-size: 25px;
+  font-family: "Fira Sans", sans-serif;
+  text-decoration: underline;
+}
+
+.site-wrapper {
+  display: block;
+  margin: auto;
+  max-width: 1400px;
+}

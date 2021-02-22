@@ -1,0 +1,52 @@
+head {
+  background-color: #15183f;
+}
+
+body {
+  background-color: #15183f;
+}
+
+#calendar {
+  color: white;
+  font-size: 25px;
+  font-family: "Fira Sans", sans-serif;
+  text-decoration: underline;
+}
+
+.site-wrapper {
+  display: block;
+  margin: auto;
+  max-width: 1400px;
+}
+
+#calendar-display {
+  display: block;
+  margin: 0 auto;
+}
+
+#booking {
+  height: 60px;
+  width: 400px;
+  background-color: white;
+  border-radius: 40px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 3px #15183f;
+}
+
+#booking:hover {
+  background-color: #b1afaf;
+  border: 3px white;
+}
+
+#booking-text {
+  color: #15183f;
+  font-family: "Fira Sans", sans-serif;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+#booking-text:hover {
+  color: white;
+}
